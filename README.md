@@ -16,7 +16,7 @@ To respond the question, we process to experimental simulation of 100.000 drunke
 The greater the maximum number of steps is, the number of survivors will be important and so the probability of reaching 100m and falling.
 
 ### Results
-| max steps per drunked | % of falling at left (0 meters) | % of falling at right (100 meters) | sum of falling percents | time (s) | mean steps to fall |
+| max steps per drunked | % of falling at 100 meters  | % of falling at 0 meters | sum of falling percents | time (s) | mean steps to fall |
 |-----------------------|---------------------------------|------------------------------------|------------------|----------|-------|
 | 2000                  | 5.4                             | 70.53                              | 75.93            | 45.5     |966    |
 | 3000                  | 9.66                            | 75.73                              | 85.4             | 56.9     |1253   |

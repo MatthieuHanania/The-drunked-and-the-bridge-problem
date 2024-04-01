@@ -16,15 +16,15 @@ To respond the question, we process to experimental simulation of 100.000 drunke
 The greater the maximum number of steps is, the number of survivors will be important and so the probability of reaching 100m and falling.
 
 ### Results
-| max steps per drunked | % of falling at left (0 meters) | % of falling at right (100 meters) | sum of falling percents | time (s) | mean steps to fall | ± % of uncertainty  |
-|-----------------------|---------------------------------|------------------------------------|------------------|----------|-------|-------|
-| 2000                  | 5.4                             | 70.53                              | 75.93            | 45.5     |966    |0.96   |
-| 3000                  | 9.66                            | 75.73                              | 85.4             | 56.9     |1253   |1.43   |
-| 5000                  | 14.29                           | 80.33                              | 94.62            | 63.6     |1665   | 2.27  |
-| 8000                  | 16.35                           | 82.36                              | 98.71            | 67.4     |1970   |  3.24 |
-| 10000                 | 16.83                           | 82.69                              | 99.52            | 70.7     |2068   |  3.62 |
-| 15000                 | 16.85                           | 83.15                              | 99.95            | 66.9     |2128   |  4.06 |
-| 20000                 | 17.26                           | 82.74                              | 100.00           | 69.6     |2136   | 4.12  |
+| max steps per drunked | % of falling at left (0 meters) | % of falling at right (100 meters) | sum of falling percents | time (s) | mean steps to fall |
+|-----------------------|---------------------------------|------------------------------------|------------------|----------|-------|
+| 2000                  | 5.4                             | 70.53                              | 75.93            | 45.5     |966    |
+| 3000                  | 9.66                            | 75.73                              | 85.4             | 56.9     |1253   |
+| 5000                  | 14.29                           | 80.33                              | 94.62            | 63.6     |1665   |
+| 8000                  | 16.35                           | 82.36                              | 98.71            | 67.4     |1970   |
+| 10000                 | 16.83                           | 82.69                              | 99.52            | 70.7     |2068   |
+| 15000                 | 16.85                           | 83.15                              | 99.95            | 66.9     |2128   |
+| 20000                 | 17.26                           | 82.74                              | 100.00           | 69.6     |2136   |
 
 For repondong to the questions, we take our results of the 20.000 steps simulation
 1) The probability of falling at 100m is 17.26%

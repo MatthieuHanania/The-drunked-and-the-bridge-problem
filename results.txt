@@ -1,0 +1,71 @@
+Sur 100000 personnes ayant au maximum 2000 pas:
+- 5398 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 1421.35 pas
+- 70530 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 510.82 pas
+- 24072 personnes ne sont pas tombées, et sont en moyenne à la position 47.83
+- le nombre moyen de pas menant à la chute est de 966 pas
+- 75.93% des personnes sont tombées, 5.4% à droite, 70.53% à gauche
+- Sur les 75928 personnes tombées 7.11% l'ont fait à droite, et 92.89% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 0.96%
+
+Sur 100000 personnes ayant au maximum 3000 pas:
+- 9614 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 1884.44 pas
+- 75726 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 645.02 pas
+- 14660 personnes ne sont pas tombées, et sont en moyenne à la position 49.26
+- le nombre moyen de pas menant à la chute est de 1265 pas
+- 85.34% des personnes sont tombées, 9.61% à droite, 75.73% à gauche
+- Sur les 85340 personnes tombées 11.27% l'ont fait à droite, et 88.73% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 1.43%
+
+Sur 100000 personnes ayant au maximum 4000 pas:
+- 12661 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 2227.51 pas
+- 78433 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 756.34 pas
+- 8906 personnes ne sont pas tombées, et sont en moyenne à la position 50.24
+- le nombre moyen de pas menant à la chute est de 1492 pas
+- 91.09% des personnes sont tombées, 12.66% à droite, 78.43% à gauche
+- Sur les 91094 personnes tombées 13.9% l'ont fait à droite, et 86.1% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 1.87%
+
+Sur 100000 personnes ayant au maximum 5000 pas:
+- 14381 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 2501.71 pas
+- 80253 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 831.8 pas
+- 5366 personnes ne sont pas tombées, et sont en moyenne à la position 50.6
+- le nombre moyen de pas menant à la chute est de 1667 pas
+- 94.63% des personnes sont tombées, 14.38% à droite, 80.25% à gauche
+- Sur les 94634 personnes tombées 15.2% l'ont fait à droite, et 84.8% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 2.27%
+
+Sur 100000 personnes ayant au maximum 8000 pas:
+- 16481 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 3000.71 pas
+- 82212 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 973.13 pas
+- 1307 personnes ne sont pas tombées, et sont en moyenne à la position 50.46
+- le nombre moyen de pas menant à la chute est de 1987 pas
+- 98.69% des personnes sont tombées, 16.48% à droite, 82.21% à gauche
+- Sur les 98693 personnes tombées 16.7% l'ont fait à droite, et 83.3% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 3.24%
+
+Sur 100000 personnes ayant au maximum 10000 pas:
+- 17012 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 3117.51 pas
+- 82499 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 1014.43 pas
+- 489 personnes ne sont pas tombées, et sont en moyenne à la position 50.93
+- le nombre moyen de pas menant à la chute est de 2066 pas
+- 99.51% des personnes sont tombées, 17.01% à droite, 82.5% à gauche
+- Sur les 99511 personnes tombées 17.1% l'ont fait à droite, et 82.9% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 3.62%
+
+Sur 100000 personnes ayant au maximum 15000 pas:
+- 17031 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 3220.4 pas
+- 82916 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 1043.42 pas
+- 53 personnes ne sont pas tombées, et sont en moyenne à la position 50.77
+- le nombre moyen de pas menant à la chute est de 2132 pas
+- 99.95% des personnes sont tombées, 17.03% à droite, 82.92% à gauche
+- Sur les 99947 personnes tombées 17.04% l'ont fait à droite, et 82.96% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 4.03%
+
+Sur 100000 personnes ayant au maximum 20000 pas:
+- 17255 personnes sont tombées à droite (coté 100), au bout d'en moyenne de 3236.25 pas
+- 82741 personnes sont tombées à gauche (coté 0), au bout d'en moyenne de 1036.62 pas
+- 4 personnes ne sont pas tombées, et sont en moyenne à la position 35
+- le nombre moyen de pas menant à la chute est de 2136 pas
+- 100.0% des personnes sont tombées, 17.26% à droite, 82.74% à gauche
+- Sur les 99996 personnes tombées 17.26% l'ont fait à droite, et 82.74% l'ont fait à gauche
+l'incertitude du nombre de pas moyen avant de tomber est de 4.0%

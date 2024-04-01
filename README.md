@@ -36,6 +36,39 @@ For repondong to the questions, we take our results of the 20.000 steps simulati
 
 ## Mathematical approach
 
+With a propriety of the markov's chains, we can describe this problem as a numerical serie:
+$$P_n = \frac{1}{2}P_{n-1} + \frac{1}{2}P_{n+1}$$
+$$<=>$$
+$$0 = -\frac{1}{2} P_{n-1} + 0 \cdot P_n + \frac{1}{2} P_{n+1}$$
+This simplies to
+$$P_{n+1} - 2P_n + P_{n-1} =0 $$
+
+This forms has a characteristic equation:
+$$x^2 - 2x + 1 = 0$$
+
+The discriminant of this quadratic equation is:
+$$\Delta = 2^2 - 4 \cdot 1 \cdot 1 = 4 - 4 = 0$$
+Thus, $$x = \frac{2}{2} - 1 = 1$$
+
+It follows that the general solution is of the form:
+$$u_n = (\lambda + \mu \cdot x^n) \cdot x^n$$
+
+The probability at the position 0 to then fall at the position 100 is null, because 0 is also a end position.  
+We use  $$u_0 = 0$$ and $$u_{100} = 1$$
+
+Then, If `n = 0`:
+$$u_0 = (\lambda + \mu \cdot 0) \cdot 1^0 \Rightarrow \lambda = 0$$
+
+If `n = 100`, then:
+$$u_{100} = (\lambda + \mu \cdot 100) \cdot 1^{100} \Rightarrow 100\mu = 1 <=> \mu = \frac{1}{100}$$
+
+Finally,  the probability of falling at position 100 if we are at position `n` is:
+$$u_n = \frac{n}{100}$$
+
+
+
+
+
 
 
 

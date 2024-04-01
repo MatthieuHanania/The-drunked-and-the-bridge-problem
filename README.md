@@ -30,7 +30,7 @@ For repondong to the questions, we take our results of the 20.000 steps simulati
 1) The probability of falling at 100m is 17.26%
 2) With a maximal number of steps per drunks, the average number of steps leading to the fall is 2136 steps
 
-### Graphical représentation
+### Graphical representation
 ![A graphical representation of %chance of falling to the left per max steps](figure.png)
 
 

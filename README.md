@@ -63,6 +63,8 @@ $$u_{100} = (\lambda + \mu \cdot 100) \cdot 1^{100} \Rightarrow 100\mu = 1 <=> \
 Finally,  the probability of falling at position 100 if we are at position `n` is:
 $$u_n = \frac{n}{100}$$
 
+__So, in our case, the probability to fall at position 100 while beeing at position 17 is 17%.__
+
 
 
 
